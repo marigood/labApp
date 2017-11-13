@@ -1,0 +1,24 @@
+
+- Blows up if I go to the home page without logging in.  It should take me to the login page
+    - Edit just the index page controller
+
+- Hover over a tutor in the tutor schedule and see the expertise
+    - schedule.php in views (write the bio in a div tag and add an event handler on the div?)
+
+- Display the picture for the user
+- Edit Profile for a student
+    - Structure of the database?
+    - View 
+    - Controller
+
+- Edit Profile (and expertise) for a tutor
+    - Should be “easy” once the previous part is done
+
+- What happens if I don’t log out?
+
+- Write some end of the term queries to gather data
+
+- Archive at the end of the term
+
+- Login as a faculty
+    - Identify 
